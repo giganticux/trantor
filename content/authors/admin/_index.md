@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Paco Ávila
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Profesor de Ciclos Formativos de Informática
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: I.E.S. Francisco Romero Vargas
+  url: "iesromerovargas.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: CFGS Desarrollo Aplicaciones Web y Administración de Sistemas Informáticos.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- GNU/Linux
+- Software Libre
+- Programación Python
+- Psicohistoria
 
 education:
   courses:
